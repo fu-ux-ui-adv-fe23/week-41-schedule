@@ -20,7 +20,7 @@ Inga presentationer denna vecka
 
 
 ### Lektionsrepon
-* [8 okt, Anime.js & repetition]()
+* [8 okt, Anime.js & repetition](https://github.com/fu-ux-ui-adv-fe23/week-41-lecture-anime-js)
 
 
 ### Filmer
