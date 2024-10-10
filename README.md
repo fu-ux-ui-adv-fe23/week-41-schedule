@@ -15,12 +15,14 @@ Under denna andra vecka i kursen kommer vi att försöka förenkla saker något,
 Inga presentationer denna vecka
 
 ### Inspelade föreläsningar
-* [Repetition föregående vecka]()
-* [Anime.js]()
+* [Repetition föregående vecka](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EYuFkfzxCUdJqNO179n09CoBukV1BNNpjVld9GzLpUmAhQ?e=R0SZes)
+* [Scrollanimationer](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EUltI6df7ctFltJYBfnNG3YBlCKZU3gRHFO9u4STaf-Iag?e=Rowzxb)
+* [Anime.js](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EUA4fRKGVkdOuEy80AKXDkkBH06iWGV2GdyCIFl7Fhq5fQ?e=TDnotw)
 
 
 ### Lektionsrepon
 * [8 okt, Anime.js & repetition](https://github.com/fu-ux-ui-adv-fe23/week-41-lecture-anime-js)
+* [10 okt, repetition](https://github.com/fu-ux-ui-adv-fe23/week-41-lecture-repetition)
 
 
 ### Filmer
@@ -32,6 +34,7 @@ Inga presentationer denna vecka
 
 ### Länkar
 * [Anime.js](https://animejs.com/)
+* [How SVG line animation works](https://css-tricks.com/svg-line-animation-works/)
 
 ### Övningar
 * [Anime.js Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-41-exercise-anime-js-bootcamp)
