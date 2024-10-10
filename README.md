@@ -18,6 +18,7 @@ Inga presentationer denna vecka
 * [Repetition föregående vecka](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EYuFkfzxCUdJqNO179n09CoBukV1BNNpjVld9GzLpUmAhQ?e=R0SZes)
 * [Scrollanimationer](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EUltI6df7ctFltJYBfnNG3YBlCKZU3gRHFO9u4STaf-Iag?e=Rowzxb)
 * [Anime.js](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EUA4fRKGVkdOuEy80AKXDkkBH06iWGV2GdyCIFl7Fhq5fQ?e=TDnotw)
+* [Repetition](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EcISmjeXtb1Plzvn70dB_dUBp2DWvqfcpXsJtfxvg2XTHw?e=OgYqDv)
 
 
 ### Lektionsrepon
